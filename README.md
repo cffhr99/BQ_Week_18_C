@@ -17,5 +17,8 @@
  ` THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list`  
 
 ## Installation:
-
+ - install all packages by `npm i`  
+ - run the server by `npm start`  
+ - use Insomnia to test api by address `localhost:3001/api/users` or `localhost:3001/api/thoughts` and others
 ## Walkthrough Video:
+The walkthrough video of api test by Insomnia:[demo_video](https://www.youtube.com/watch?v=6my9LjhUnmk)
